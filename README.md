@@ -9,24 +9,25 @@ The script successfully navigates to the specified URL and waits for the page to
 Random delays and scrolling are effectively simulated, mimicking human interaction.
 Human-like mouse movements are performed over web elements.
 
-### Detection Avoidance:
+### 2. Detection Avoidance:
 The use of random user-agents and proxy servers helps in avoiding bot detection mechanisms.
 Disabling the webdriver property enhances the script's ability to mimic real user behavior.
 
-### Screenshot Verification:
+### 3. Screenshot Verification:
 The script takes a screenshot of the web page, confirming successful navigation and interaction.
-Potential Improvements
 
-## Enhanced Human-Like Behavior:
-### Mouse Movement Patterns:
+# Potential Improvements
+
+## 1. Enhanced Human-Like Behavior:
+### - Mouse Movement Patterns:
 Implement more sophisticated mouse movement patterns to better mimic human behavior.
-### Interaction Variety:
+### - Interaction Variety:
 Include a broader range of interactions such as clicking, form filling, and hovering.
 
-## Dynamic Element Handling:
-### Adaptive Waiting:
+## 2. Dynamic Element Handling:
+### - Adaptive Waiting:
 Use more advanced techniques for waiting, such as waiting for specific elements to be interactive rather than just present.
-### Error Handling:
+### - Error Handling:
 Improve error handling to manage dynamic content and potential page load issues more effectively.
 
 ## Proxy Management:
