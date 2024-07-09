@@ -4,7 +4,7 @@
 This script automates web interaction using Selenium WebDriver. It simulates human-like behavior through random delays, mouse movements, and scrolling. The script also employs a proxy server and random user-agents to avoid detection.
 
 ## Results Analysis
-### Webpage Navigation and Interaction:
+### 1. Webpage Navigation and Interaction:
 The script successfully navigates to the specified URL and waits for the page to load.
 Random delays and scrolling are effectively simulated, mimicking human interaction.
 Human-like mouse movements are performed over web elements.
